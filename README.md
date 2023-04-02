@@ -1,2 +1,2 @@
 # Pytorch-implementation
-This is a repository for implementing DeepLearning Models
+This is a repository for implementing Deeplearning Models
